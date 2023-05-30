@@ -86,4 +86,8 @@ NON NULL AFTER:
 
 ![7](https://github.com/vidhyasrikachapalayam/Ex-01-Data-Cleaning/assets/119477817/26b2deee-916e-4285-a93b-5993073dc18b)
 
+RESULT
+
+Thus, the given data is read, cleansed and the cleansed data is saved into the file.
+
 
